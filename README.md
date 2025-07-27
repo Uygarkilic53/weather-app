@@ -41,7 +41,7 @@ Go to OpenWeatherMap and sign up for a free account.
 
 Once signed in, navigate to the "API keys" tab in your profile to find or generate your API key.
 
-Add your API key to the line 5 in src folder
+Add your API key to the line 5 in src folder (App.js) 
 
 Usage
 After completing the installation and API key configuration steps:
