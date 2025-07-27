@@ -1,6 +1,6 @@
 Features
 Instant Weather Lookup: Get current weather conditions for any city worldwide.
-User-Friendly Interface: Simple input field for city name and clear display of weather information.
+User-Friendly Basic Interface: Simple input field for city name and clear display of weather information.
 Real-time Data: Fetches up-to-date weather details directly from the OpenWeatherMap API.
 Single-Page Experience: All information displayed on the same page for convenience.
 
